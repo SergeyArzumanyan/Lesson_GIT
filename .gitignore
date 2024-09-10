@@ -1,1 +1,7 @@
 .idea
+
+.db
+.log
+
+target
+bin
